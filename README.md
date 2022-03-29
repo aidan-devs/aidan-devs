@@ -1,0 +1,3 @@
+- Hello, I'm Aidan!
+- I am currently in college studying computer science
+- I will try to keep GitHub updated with my latest projects!
